@@ -1,5 +1,6 @@
 # Tic-Tac-Toe-Game
-Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more information about the game, click ![here]((https://en.wikipedia.org/wiki/Tic-tac-toe)).
+Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more information about the game, click ![here](https://en.wikipedia.org/wiki/Tic-tac-toe).
+
 ![image](https://github.com/tusharac11/Tic-Tac-Toe-Game/assets/122482528/a2fa8cd9-b27e-4012-a6ac-ebfc44ee92e1)
 
 
